@@ -1,3 +1,5 @@
+#making changes on the file 
+#please consider it
 waping of two variables
 #first method
 X=78
