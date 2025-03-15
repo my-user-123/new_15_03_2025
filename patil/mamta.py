@@ -1,5 +1,6 @@
 #making changes on the file 
 #please consider it
+# we are making chnages on file on git repo
 waping of two variables
 #first method
 X=78
